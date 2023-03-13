@@ -1,0 +1,29 @@
+{
+  "mobile": [{
+    "id": 1,
+    "name": "POCO X5 Pro 5G (Horizon Blue, 128 GB)",
+    "ram": "6 GB RAM | 128 GB ROM",
+    "display": "16.94 cm (6.67 inch) Full HD+ Display",
+    "image":"https://qph.cf2.quoracdn.net/main-qimg-9a5cb532af7c9de413f888670788a1a8-lq",
+    "price":"12000"
+},
+{
+  "id": 2 ,
+  "name": "POCO X5 Pro 5G (Horizon Blue, 256 GB)  (8 GB RAM)",
+  "ram": "8 GB RAM | 256 GB ROM",
+  "display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/n/v/2/-original-imagmkjfjwtzhaag.jpeg?q=70",
+  "price":"24999"
+},
+{
+  "id": 3 ,
+  "name": "POCO X5 Pro 5G (Yellow, 128 GB)  (6 GB RAM)",
+  "ram": "8 GB RAM | 256 GB ROM",
+  "display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "image":"https://images.ctfassets.net/wcfotm6rrl7u/54b8qK9HLwHnwTWy1qBUZS/10fdb7640862908bfcf8b1cc5b85dcfa/nokia_C21_plus-dark_cyan-front_back-IN.png",
+  "price":"22999"
+}
+
+
+]
+}
